@@ -4,7 +4,7 @@ A simple, responsive number guessing game with a retro design, built using HTML,
 
 ## 📸 Game Preview
 
-![Game Preview](assets/GuessMyNumber.png)
+<img src="./assets/GuessMyNumber.png" width="750" height="auto" alt="Calculator Preview">
 
 ## ⚙️ Features
 
