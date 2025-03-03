@@ -32,7 +32,7 @@ The game picks a random number between 1 and 20. Your goal is to guess it by typ
 
 ## 🏁 Getting Started
 
-Follow these steps to set up and run the calculator on your local machine.
+Follow these steps to set up and run the game on your local machine.
 
 ### 📋 Prerequisites
 
