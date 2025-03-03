@@ -58,7 +58,7 @@ Make sure you have:
 
 -  Open the folder in **VS Code** or any text editor.
 
-   3️⃣ **Run the Calculator**
+   3️⃣ **Run Guess My Number**
 
 -  **Method 1**: Double-click on `index.html` to open it in your web browser.
 -  **Method 2 (Live Server)**:
